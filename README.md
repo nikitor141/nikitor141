@@ -1,4 +1,4 @@
-<h1 align="center">Привет 👋, я Никитор</h1>
+<h1 align="center">Привет 👋, меня зовут Никита</h1>
 <h3 align="center">Frontend-разработчик</h3>
 
 - 🌱 В данный момент изучаю **JavaScript**
