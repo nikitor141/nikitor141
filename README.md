@@ -20,3 +20,6 @@
 </p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitor141&show_icons=true&locale=en&layout=compact" alt="nikitor141" /></p>
+
+![](https://komarev.com/ghpvc/?username=nikitor141&style=for-the-badge&color=0969da)
+
