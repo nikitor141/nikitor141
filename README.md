@@ -1,8 +1,6 @@
 <h1 align="center">Привет 👋, меня зовут Никита</h1>
 <h3 align="center">Frontend-разработчик</h3>
 
-- 🌱 В данный момент изучаю **JavaScript**
-
 - 👨‍💻 Все мои работы можно посмотреть [👉 тут 👈](https://nikitor141.github.io/portfolio/)
 
 - 📫 Связь со мной **nikitor141@gmail.com**
