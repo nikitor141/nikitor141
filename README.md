@@ -21,7 +21,7 @@
 <hr>
 
 <h3 align="left">✉️ Связь со мной:</h3>
-<b><a href="https://t.me/oreshNick" target="_blank"><img src="telegram-logo.svg" alt="telegram" width="25" height="25" align="center"> @n1kiThor</a></b><br></br>
+<b><a href="https://t.me/n1kiThor" target="_blank"><img src="telegram-logo.svg" alt="telegram" width="25" height="25" align="center"> @n1kiThor</a></b><br></br>
 
 
 <b><a href="mailto:nikitor141@gmail.com" target="_blank">📫 oreshnickk@gmail.com</a></b>
