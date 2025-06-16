@@ -24,7 +24,7 @@
 <b><a href="https://t.me/n1kiThor" target="_blank"><img src="telegram-logo.svg" alt="telegram" width="25" height="25" align="center"> @n1kiThor</a></b><br></br>
 
 
-<b><a href="mailto:nikitor141@gmail.com" target="_blank">📫 oreshnickk@gmail.com</a></b>
+<b><a href="mailto:nikitor141@gmail.com" target="_blank">📫 nikitor141@gmail.com</a></b>
 <hr>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nikitor141&show_icons=true&locale=en&layout=compact" alt="nikitor141" /></p>
